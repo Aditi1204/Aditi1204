@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Aditi1204
-- 👀 I’m interested in the role Business Analyst
-- 🌱 I’m currently learning pursing Msc Business Analytics and Big Data
-- 💞️ I’m looking to collaborate on ...
+Experienced data engineer with 7+ years delivering scalable data platforms, automated ETL pipelines, and analytics solutions across healthcare, government, and consulting. I build reliable data products that reduce manual work, improve data quality, and enable data-driven decisions.
 - 📫 How to reach me ..aditiaryan1204@gmail.com
 
 <!---
