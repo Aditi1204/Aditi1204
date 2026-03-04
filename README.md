@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditi1204/Aditi1204/refs/heads/main/GIF.png" width="300px" width="280px" />
 </p>
-Experienced data engineer with 7+ years delivering scalable data platforms, automated ETL pipelines, and analytics solutions across healthcare, government, and consulting. I build reliable data products that reduce manual work, improve data quality, and enable data-driven decisions.
+Experienced data engineer with 8+ years delivering scalable data platforms, automated ETL pipelines, and analytics solutions across healthcare, government, and consulting. I build reliable data products that reduce manual work, improve data quality, and enable data-driven decisions.
 I hold an MSc in Business Analytics & Big Data from the University of Liverpool, and I showcase several of my academic and practical assignments/projects here on GitHub.
 What I’m Working On :Exploring AI-driven automation to optimize data workflows, enhance data-quality checks, and surface insights faster.
 
