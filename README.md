@@ -4,6 +4,8 @@
 Experienced data engineer with 8+ years delivering scalable data platforms, automated ETL pipelines, and analytics solutions across healthcare, government, and consulting. I build reliable data products that reduce manual work, improve data quality, and enable data-driven decisions.
 I hold an MSc in Business Analytics & Big Data from the University of Liverpool, and I showcase several of my academic and practical assignments/projects here on GitHub.
 What I’m Working On :Exploring AI-driven automation to optimize data workflows, enhance data-quality checks, and surface insights faster.
+  
+Currently upskilling in Generative AI — building production-ready RAG pipelines, LangChain and LangGraph agent workflows, and LLM-powered automation. My focus is on bridging Data Engineering with AI systems to deliver reliable, scalable, and cost-efficient applications. Let’s connect if you’re working at the intersection of data, innovation, and impact.
 
 🔧 Tech & Tools:
 -Cloud / Data Platform: Azure Data Factory, Azure Synapse Analytics, Azure Data Lake, Azure Blob Storage
